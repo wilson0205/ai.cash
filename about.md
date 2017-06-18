@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About AI.cash
-permalink: /about/
+permalink: "/about/"
+layout: page
 tags: about
 ---
 
